@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VolleyExample</string>
+    <string name="heading">Choose one option:</string>
+    <string name="requestLabel">Simple Request</string>
+    <string name="jsonLabel">JSON Request</string>
+    <string name="hint_request">Enter URL</string>
+    <string name="txt_request">GO!</string>
+    <string name="txt_json_request">Get a joke!</string>
+    <string name="title_activity_json">JsonActivity</string>
+
+</resources>
